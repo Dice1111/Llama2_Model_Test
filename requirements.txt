@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+transformers
+bitsandbytes
+python-dotenv
+accelerate
+huggingface_hub
